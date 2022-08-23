@@ -3,7 +3,7 @@
 The Dataset contains images of the left and right retinas of the subjects. Corresponding labels give the level of  "diabetic retinopathy." Diabetic retinopathy is one of the leading causes of blindness in working populations. The following repo contains various experiments with different architectures and techniques to improve classification accuracy. Quadratic Cohens Kappa is used to evaluate the performance of various models & experiments.
 
 
-<img src="images/10003_left_after.jpeg" width="100" height="100">
+<img src="images/10003_left_after.jpeg" width="250" height="250">
 
 The following are the files and corresponding experiments.
 
